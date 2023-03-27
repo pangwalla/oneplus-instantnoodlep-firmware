@@ -1,0 +1,13 @@
+[
+    {
+        "board": [
+            {
+                "names": [
+                    "bus=pci,qmi-chip-id=0,qmi-board-id=255"
+                ],
+                "data": "bdwlan.elf"
+            }
+        ],
+        "regdb": []
+    }
+]
